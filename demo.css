@@ -1,0 +1,15 @@
+h1 {
+  color: red;
+}
+
+div {
+  color:blue;
+  font-weight: bold;
+}
+
+#welcome {
+  color:purple;
+}
+#word1{
+  color: green;
+}

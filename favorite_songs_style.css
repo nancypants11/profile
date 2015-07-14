@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+}
+h1, h2 {
+  background: yellow;
+  color: purple;
+  font-family: 'Open Sans Condensed', cursive;
+  width: 200px;
+  height:50px
+}
+.title {
+  font-weight: bold;
+  color: #000099
+}
+ul {
+  border: 3px solid grey;
+  background: pink;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: 100px;
+}
